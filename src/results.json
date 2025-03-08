@@ -42,5 +42,49 @@
     "snowflake/snowflake-arctic-embed-m-long": {
         "exact_match_accuracy": 0.53,
         "top_3_accuracy": 0.88
+    },
+    "snowflake/snowflake-arctic-embed-l": {
+        "exact_match_accuracy": 0.53,
+        "top_3_accuracy": 0.65
+    },
+    "jinaai/jina-clip-v1": {
+        "exact_match_accuracy": 0.59,
+        "top_3_accuracy": 0.88
+    },
+    "Qdrant/clip-ViT-B-32-text": {
+        "exact_match_accuracy": 0.47,
+        "top_3_accuracy": 0.53
+    },
+    "sentence-transformers/all-MiniLM-L6-v2": {
+        "exact_match_accuracy": 0.53,
+        "top_3_accuracy": 0.71
+    },
+    "jinaai/jina-embeddings-v2-base-en": {
+        "exact_match_accuracy": 0.71,
+        "top_3_accuracy": 0.88
+    },
+    "jinaai/jina-embeddings-v2-small-en": {
+        "exact_match_accuracy": 0.41,
+        "top_3_accuracy": 0.88
+    },
+    "jinaai/jina-embeddings-v2-base-de": {
+        "exact_match_accuracy": 0.59,
+        "top_3_accuracy": 0.88
+    },
+    "jinaai/jina-embeddings-v2-base-code": {
+        "exact_match_accuracy": 0.47,
+        "top_3_accuracy": 0.59
+    },
+    "jinaai/jina-embeddings-v2-base-zh": {
+        "exact_match_accuracy": 0.53,
+        "top_3_accuracy": 0.82
+    },
+    "jinaai/jina-embeddings-v2-base-es": {
+        "exact_match_accuracy": 0.47,
+        "top_3_accuracy": 0.94
+    },
+    "thenlper/gte-base": {
+        "exact_match_accuracy": 0.65,
+        "top_3_accuracy": 0.76
     }
 }

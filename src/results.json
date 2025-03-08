@@ -1,0 +1,46 @@
+{
+    "BAAI/bge-base-en": {
+        "exact_match_accuracy": 0.65,
+        "top_3_accuracy": 0.82
+    },
+    "BAAI/bge-base-en-v1.5": {
+        "exact_match_accuracy": 0.65,
+        "top_3_accuracy": 0.88
+    },
+    "BAAI/bge-large-en-v1.5": {
+        "exact_match_accuracy": 0.65,
+        "top_3_accuracy": 0.71
+    },
+    "BAAI/bge-small-en": {
+        "exact_match_accuracy": 0.65,
+        "top_3_accuracy": 0.88
+    },
+    "BAAI/bge-small-en-v1.5": {
+        "exact_match_accuracy": 0.53,
+        "top_3_accuracy": 0.88
+    },
+    "BAAI/bge-small-zh-v1.5": {
+        "exact_match_accuracy": 0.29,
+        "top_3_accuracy": 0.53
+    },
+    "mixedbread-ai/mxbai-embed-large-v1": {
+        "exact_match_accuracy": 0.53,
+        "top_3_accuracy": 0.76
+    },
+    "snowflake/snowflake-arctic-embed-xs": {
+        "exact_match_accuracy": 0.53,
+        "top_3_accuracy": 0.76
+    },
+    "snowflake/snowflake-arctic-embed-s": {
+        "exact_match_accuracy": 0.76,
+        "top_3_accuracy": 0.88
+    },
+    "snowflake/snowflake-arctic-embed-m": {
+        "exact_match_accuracy": 0.41,
+        "top_3_accuracy": 0.71
+    },
+    "snowflake/snowflake-arctic-embed-m-long": {
+        "exact_match_accuracy": 0.53,
+        "top_3_accuracy": 0.88
+    }
+}
